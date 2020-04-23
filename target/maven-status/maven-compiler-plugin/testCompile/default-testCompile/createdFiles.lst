@@ -1,0 +1,6 @@
+Pages/AddDetailsPage.class
+ExcelReader/getObjectValue.class
+ExcelReader/ExcelOperations.class
+JunitRunner/FeatureRunnerTest.class
+StepDefinition/MyStepdefs.class
+ExcelReader/GlobalVariables.class
