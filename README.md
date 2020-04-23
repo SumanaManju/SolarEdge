@@ -2,15 +2,15 @@ The automated scripts are created using Selenium Webdriver Java (additionally al
 
 **Pre-requistie:**
 Before you get started, make sure you have installed the following:
-	1. Java Development Kit 1.8
-	2. Selenium Webdriver For Chrome
-	3. An IDE of your choice, such as Eclipse or IntelliJ
-	4. Maven
+1. Java Development Kit 1.8
+2. Selenium Webdriver For Chrome
+3. An IDE of your choice, such as Eclipse or IntelliJ
+4. Maven
 
 **Execute using IDE:**
 
 1. Import as maven project into your IDE
-2. 6. Run the file: Right click on the feature file->Run ‘Feature:Regression’
+2. Run the file: Right click on the feature file->Run ‘Feature:Regression’
 
 **Execute using Command prompt / Terminal:**
 
